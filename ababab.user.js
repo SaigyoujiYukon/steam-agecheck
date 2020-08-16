@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name           steamÖØ¶¨Ïò
+// @name           steamé‡å®šå‘
 // @version        0.1
 // @author         SaigyoujiYukon
-// @description    Ğ¼steam±ğÏëÄêÁäÑéÖ¤
+// @description    ÃÂ¼steamÂ±Ã°ÃÃ«Ã„ÃªÃÃ¤Ã‘Ã©Ã–Â¤
 
 // @include        https://store.steampowered.com/agecheck/app/*
 
