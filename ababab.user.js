@@ -1,14 +1,12 @@
 // ==UserScript==
-// @name           steamÖØ¶¨Ïò
-// @version        0.1
+// @name           steamé‡å®šå‘
+// @version        0.2
 // @author         SaigyoujiYukon
-// @description    Ğ¼steam±ğÏëÄêÁäÑéÖ¤
+// @description    å±‘steamåˆ«æƒ³åŒºåŸŸä¸å¯ç”¨
 
 // @include        https://store.steampowered.com/agecheck/app/*
 
 // @namespace SaigyoujiYukon
 // ==/UserScript==
 
-var kk = location.pathname;
-var kl = kk.replace("/agecheck/app/","/app/");
-document.location.pathname = kl;
+document.location.pathname = location.pathname.replace("/agecheck/app/","/app/");
